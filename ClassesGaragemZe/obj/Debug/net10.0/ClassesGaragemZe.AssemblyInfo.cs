@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassesGaragemZe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b3955ece31e4cd7a643ac59edb6f8cec5902509")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eccf8925f845a9ec0dd2f2aa12929f25ac36d2b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassesGaragemZe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassesGaragemZe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
