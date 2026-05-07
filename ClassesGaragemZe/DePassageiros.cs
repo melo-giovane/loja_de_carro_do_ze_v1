@@ -1,12 +1,12 @@
 namespace ClassesGaragemZe;
 
-public abstract class DePassageiro : Veiculo
+public class DePassageiros : Veiculo
 {
-    public string CapacidadePessoas { get; set; }
+    public int CapacidadePassageiros { get; set; }
 
-    public DePassageiro(string marca, string modelo, string cor, int ano, int portas, string combustivel, int cilindrada, decimal precoCusto, decimal margemLucro, decimal precoVenda, string capacidadePessoas)
-        : base(marca, modelo, cor, ano, portas, combustivel, cilindrada, precoCusto, margemLucro, precoVenda)
+    public DePassageiros(string marca, string modelo, string cor, int anoFabricacao, int anoModelo, string combustivel, int cavalos, int kmRodados, decimal valorPago, decimal valorDeVenda, decimal valorCustos, int capacidadePassageiros)
+        : base(marca, modelo, cor, anoFabricacao, anoModelo, combustivel, cavalos, kmRodados, valorPago, valorDeVenda, valorCustos)
     {
-        CapacidadePessoas = capacidadePessoas;
+        CapacidadePassageiros = capacidadePassageiros;
     }
 }
