@@ -15,9 +15,7 @@ namespace AplicacaoGaragemDoZe
         public static string[] Opcoes = {
             "Cadastrar Dados da Revenda",
             "Adicionar Veículo",
-            "Listar Dados da Revenda",
-            "Listar todos os dados de revendas (Revenda e seus Veículos)",
-            "Listar Somente uma Categoria Específica de Veículo",
+            "Listar Veículos por Categoria",
             "Sair"
         };
 

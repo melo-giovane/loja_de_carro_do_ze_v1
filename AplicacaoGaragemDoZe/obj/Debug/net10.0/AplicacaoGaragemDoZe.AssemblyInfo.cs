@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AplicacaoGaragemDoZe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18a645cd36b8f268c9a2bd949da52ee501a344ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9476c9ccba71e020b25c3eb2188a6c18cb222e7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AplicacaoGaragemDoZe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AplicacaoGaragemDoZe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

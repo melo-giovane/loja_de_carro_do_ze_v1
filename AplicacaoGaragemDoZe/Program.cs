@@ -1,13 +1,22 @@
-﻿namespace AplicacaoGaragemDoZe;
+﻿// ================================================================================
+// PARTICIPANTES: [Insira o Nome do Aluno 1], [Aluno 2], [Aluno 3], [Aluno 4]
+// ================================================================================
+
+namespace AplicacaoGaragemDoZe;
 
 using ClassesGaragemZe;
 using System;
 using System.Collections.Generic;
 
 internal class Program
-{    static void Main(string[] args)
+{    
+    static void Main(string[] args)
     {
         List<Veiculo> veiculos = new List<Veiculo>();
+        
+        // CHAMADA DIRETA: Insere 2 veículos de cada subcategoria automaticamente (Carga Inicial)
+        Adicionar_Veiculo.InserirVeiculosDeTeste(veiculos);
+
         Console.WriteLine("Bem-vindo à Garagem do Zé!");
 
         while (true)
@@ -34,44 +43,17 @@ internal class Program
                     Adicionar_Veiculo.CadastrarVeiculo(veiculos);
                     break;
 
-                case 3: // Listar Veículos
-                    Console.WriteLine();
-                    if (veiculos.Count == 0)
-                    {
-                        Console.WriteLine("Nenhum veículo cadastrado.");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Veículos cadastrados:");
-                        foreach (var veiculo in veiculos)
-                        {
-                            Console.WriteLine(veiculo);
-                        }
-                    }
+                case 3: // Listar Veículos por Categoria
+                    ListarVeiculos.ExibirMenuListagem(veiculos);
                     break;
 
-                case 4: // Listar Categorias
-                    Console.WriteLine("\nCategorias disponíveis:");
-                    foreach (var cat in Menu.Categorias)
-                    {
-                        Console.WriteLine(cat);
-                    }
-                    break;
-                case 5: // Listar Subcategorias
-                    Console.WriteLine("\nSubcategorias disponíveis:");
-                    foreach (var subcat in Menu.Subcategorias)
-                    {
-                        Console.WriteLine(subcat);
-                    }
-                    break;
-
-                case 6: // Sair
+                case 4: // Sair
                     Console.WriteLine("\nObrigado por usar a Garagem do Zé! Até mais!");
-                    return; // Sai do Main, encerrando o programa
+                    return;
 
                 default:
                     Console.WriteLine("\nOpção inválida, tente novamente.");
-                    break; // 'break' é mais limpo aqui do que 'continue'
+                    break; 
             }
         }
     }
