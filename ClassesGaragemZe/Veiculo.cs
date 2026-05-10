@@ -1,4 +1,4 @@
-namespace ClassesGaragemZe;
+namespace ClassesGaragemZe; //Giovane Melo, Gustavo Decker Couto
 
 public abstract class Veiculo
 {

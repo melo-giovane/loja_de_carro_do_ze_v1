@@ -1,4 +1,5 @@
-namespace ClassesGaragemZe;
+namespace ClassesGaragemZe; //Giovane Melo, Gustavo Decker Couto
+
 public class DeMisto : Veiculo
 {
     public decimal CapacidadeCargaKg { get; set; }

@@ -1,4 +1,5 @@
-namespace ClassesGaragemZe;
+namespace ClassesGaragemZe; //Giovane Melo, Gustavo Decker Couto
+
 public class Bicicleta : DePassageiros //HERANÇA -- CLASSE HERDA DE VEICULO
 {
     public int Aro { get; set; }
