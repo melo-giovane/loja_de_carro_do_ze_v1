@@ -193,7 +193,7 @@ namespace AplicacaoGaragemDoZe
             }
         }
 
-        private static void ListarTodos(List<Veiculo> frota)
+        public static void ListarTodos(List<Veiculo> frota)
         {
             if (frota.Count == 0)
             {

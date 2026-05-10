@@ -1,8 +1,4 @@
-// ================================================================================
-// PARTICIPANTES: [Insira o Nome do Aluno 1], [Aluno 2], [Aluno 3], [Aluno 4]
-// ================================================================================
-
-using System;
+using System; //Giovane Melo, Gustavo Decker Couto
 using ClassesGaragemZe;
 
 namespace AplicacaoGaragemDoZe
@@ -16,6 +12,7 @@ namespace AplicacaoGaragemDoZe
             "Cadastrar Dados da Revenda",
             "Adicionar Veículo",
             "Listar Veículos por Categoria",
+            "Listar Dados da Revenda",
             "Sair"
         };
 

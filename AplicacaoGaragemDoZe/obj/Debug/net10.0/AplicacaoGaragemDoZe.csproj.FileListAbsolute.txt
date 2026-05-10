@@ -23,3 +23,16 @@ C:\Users\Acer\Desktop\garagem_do_ze\loja_de_carro_do_ze_v1\AplicacaoGaragemDoZe\
 C:\Users\Acer\Desktop\garagem_do_ze\loja_de_carro_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\AplicacaoGaragemDoZe.pdb
 C:\Users\Acer\Desktop\garagem_do_ze\loja_de_carro_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\AplicacaoGaragemDoZe.genruntimeconfig.cache
 C:\Users\Acer\Desktop\garagem_do_ze\loja_de_carro_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\ref\AplicacaoGaragemDoZe.dll
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\bin\Debug\net10.0\AplicacaoGaragemDoZe.exe
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\bin\Debug\net10.0\AplicacaoGaragemDoZe.deps.json
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\bin\Debug\net10.0\AplicacaoGaragemDoZe.runtimeconfig.json
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\bin\Debug\net10.0\AplicacaoGaragemDoZe.dll
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\bin\Debug\net10.0\AplicacaoGaragemDoZe.pdb
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\bin\Debug\net10.0\ClassesGaragemZe.dll
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\bin\Debug\net10.0\ClassesGaragemZe.pdb
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\Aplicaca.4C6F2277.Up2Date
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\AplicacaoGaragemDoZe.dll
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\refint\AplicacaoGaragemDoZe.dll
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\AplicacaoGaragemDoZe.pdb
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\AplicacaoGaragemDoZe.genruntimeconfig.cache
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\ref\AplicacaoGaragemDoZe.dll
