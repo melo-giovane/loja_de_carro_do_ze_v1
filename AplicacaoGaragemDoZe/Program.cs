@@ -1,8 +1,4 @@
-﻿// ================================================================================
-// PARTICIPANTES: [Insira o Nome do Aluno 1], [Aluno 2], [Aluno 3], [Aluno 4]
-// ================================================================================
-
-namespace AplicacaoGaragemDoZe;
+﻿namespace AplicacaoGaragemDoZe;//Giovane Melo, Gustavo Decker Couto
 
 using ClassesGaragemZe;
 using System;

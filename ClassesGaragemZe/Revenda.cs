@@ -2,7 +2,7 @@ namespace ClassesGaragemZe
 {
     public class Revenda
     {
-        public string Nome { get; set; }
+        public string Nome { get; set; } // ENCAPSULAMENTO - PROPRIEDADES COM GETTERS E SETTERS
         public string Endereco { get; set; }
         public string Telefone { get; set; }
 
@@ -13,7 +13,7 @@ namespace ClassesGaragemZe
             Telefone = telefone;
         }
 
-        public override string ToString()
+        public override string ToString() // POLIMORFISMO: Sobrescreve o método ToString para exibir os dados da revenda de forma personalizada
         {
             return $"Revenda: {Nome}, Endereço: {Endereco}, Telefone: {Telefone}";
         }

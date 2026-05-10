@@ -1,9 +1,9 @@
-using System; //Giovane Melo, Gustavo Decker Couto
+using System;
 using ClassesGaragemZe;
 
 namespace AplicacaoGaragemDoZe
 {
-    public abstract class Menu
+    public abstract class Menu // ABSTRAÇÂO - CLASSE ABSTRATA, NÃO PODE SER INSTANCIADA, SERVE APENAS COMO BASE PARA OUTRAS CLASSES
     {
         public static string[] Categorias = { "Passeio", "Transporte", "Carga", "Misto" };
         public static string[] Subcategorias = { "Automóvel", "Bicicleta", "Caminhão", "Caminhonete", "Motocicleta", "Utilitários" };

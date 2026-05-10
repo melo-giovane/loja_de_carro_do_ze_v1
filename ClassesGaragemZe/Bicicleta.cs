@@ -1,5 +1,5 @@
 namespace ClassesGaragemZe;
-public class Bicicleta : DePassageiros
+public class Bicicleta : DePassageiros //HERANÇA -- CLASSE HERDA DE VEICULO
 {
     public int Aro { get; set; }
     public int Marchas { get; set; }
