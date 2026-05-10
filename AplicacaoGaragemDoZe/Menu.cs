@@ -1,28 +1,37 @@
+// ================================================================================
+// PARTICIPANTES: [Insira o Nome do Aluno 1], [Aluno 2], [Aluno 3], [Aluno 4]
+// ================================================================================
+
+using System;
 using ClassesGaragemZe;
-namespace AplicacaoGaragemDoZe;
 
-public abstract class Menu
+namespace AplicacaoGaragemDoZe
 {
-    public static string[] Categorias = { "Automóvel", "Bicicleta", "Caminhão", "Caminhonete", "De Carga", "De Passageiros", "Motocicleta", "Utilitário", };
-    public static string[] Opcoes = { "Adicionar Veículo", "Listar Veículos", "Listar Categorias", "Sair" };
-
-
-    public static Type seletorDeTipo(int categoria)
+    public abstract class Menu
     {
-        switch (categoria)
-        {
-            case 1: return typeof(Automovel);
-            case 2: return typeof(Bicicleta);
-            case 3: return typeof(Caminhao);
-            case 4: return typeof(Caminhonete);
-            case 5: return typeof(DeCarga);
-            case 6: return typeof(DePassageiros);
-            case 7: return typeof(Motocicleta);
-            case 8: return typeof(Utilitarios);
-            default:
-                throw new ArgumentException("Categoria inválida");
+        public static string[] Categorias = { "Passeio", "Transporte", "Carga", "Misto" };
+        public static string[] Subcategorias = { "Automóvel", "Bicicleta", "Caminhão", "Caminhonete", "Motocicleta", "Utilitários" };
 
+        public static string[] Opcoes = {
+            "Cadastrar Dados da Revenda",
+            "Adicionar Veículo",
+            "Listar Dados da Revenda",
+            "Listar todos os dados de revendas (Revenda e seus Veículos)",
+            "Listar Somente uma Categoria Específica de Veículo",
+            "Sair"
+        };
+
+        public static Type seletorDeTipo(int categoria)
+        {
+            switch (categoria)
+            {
+                case 1: return typeof(DePassageiros);
+                case 2: return typeof(DeMisto);
+                case 3: return typeof(DeCarga);
+                case 4: return typeof(Utilitarios);
+                default:
+                    throw new ArgumentException("Categoria inválida");
+            }
         }
     }
-
 }
