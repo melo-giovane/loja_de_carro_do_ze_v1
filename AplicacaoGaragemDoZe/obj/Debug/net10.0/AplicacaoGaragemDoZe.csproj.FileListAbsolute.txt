@@ -1,0 +1,6 @@
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\AplicacaoGaragemDoZe.csproj.AssemblyReference.cache
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\AplicacaoGaragemDoZe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\AplicacaoGaragemDoZe.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\AplicacaoGaragemDoZe.AssemblyInfo.cs
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\AplicacaoGaragemDoZe.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\AplicacaoGaragemDoZe\obj\Debug\net10.0\AplicacaoGaragemDoZe.sourcelink.json

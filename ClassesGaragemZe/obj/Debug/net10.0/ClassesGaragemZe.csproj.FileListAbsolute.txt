@@ -1,0 +1,12 @@
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\ClassesGaragemZe\bin\Debug\net10.0\ClassesGaragemZe.deps.json
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\ClassesGaragemZe\bin\Debug\net10.0\ClassesGaragemZe.dll
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\ClassesGaragemZe\bin\Debug\net10.0\ClassesGaragemZe.pdb
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\ClassesGaragemZe\obj\Debug\net10.0\ClassesGaragemZe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\ClassesGaragemZe\obj\Debug\net10.0\ClassesGaragemZe.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\ClassesGaragemZe\obj\Debug\net10.0\ClassesGaragemZe.AssemblyInfo.cs
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\ClassesGaragemZe\obj\Debug\net10.0\ClassesGaragemZe.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\ClassesGaragemZe\obj\Debug\net10.0\ClassesGaragemZe.sourcelink.json
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\ClassesGaragemZe\obj\Debug\net10.0\ClassesGaragemZe.dll
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\ClassesGaragemZe\obj\Debug\net10.0\refint\ClassesGaragemZe.dll
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\ClassesGaragemZe\obj\Debug\net10.0\ClassesGaragemZe.pdb
+C:\Users\giova\Documents\Sistemas\3_semestre\desenvolvimento_sistemas\Projetos\loja_de_carros_do_ze_v1\ClassesGaragemZe\obj\Debug\net10.0\ref\ClassesGaragemZe.dll

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "ClassesGaragemZe/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ClassesGaragemZe.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassesGaragemZe.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ClassesGaragemZe/1.0.0": {
+      "type": "project",
+      "path": "../ClassesGaragemZe/ClassesGaragemZe.csproj",
+      "msbuildProject": "../ClassesGaragemZe/ClassesGaragemZe.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "ClassesGaragemZe >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\giova\\.nuget\\packages\\": {},
@@ -14,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giova\\Documents\\Sistemas\\3_semestre\\desenvolvimento_sistemas\\Projetos\\loja_de_carros_do_ze_v1\\ClassesGaragemZe\\ClassesGaragemZe.csproj",
-      "projectName": "ClassesGaragemZe",
-      "projectPath": "C:\\Users\\giova\\Documents\\Sistemas\\3_semestre\\desenvolvimento_sistemas\\Projetos\\loja_de_carros_do_ze_v1\\ClassesGaragemZe\\ClassesGaragemZe.csproj",
+      "projectUniqueName": "C:\\Users\\giova\\Documents\\Sistemas\\3_semestre\\desenvolvimento_sistemas\\Projetos\\loja_de_carros_do_ze_v1\\AplicacaoGaragemDoZe\\AplicacaoGaragemDoZe.csproj",
+      "projectName": "AplicacaoGaragemDoZe",
+      "projectPath": "C:\\Users\\giova\\Documents\\Sistemas\\3_semestre\\desenvolvimento_sistemas\\Projetos\\loja_de_carros_do_ze_v1\\AplicacaoGaragemDoZe\\AplicacaoGaragemDoZe.csproj",
       "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giova\\Documents\\Sistemas\\3_semestre\\desenvolvimento_sistemas\\Projetos\\loja_de_carros_do_ze_v1\\ClassesGaragemZe\\obj\\",
+      "outputPath": "C:\\Users\\giova\\Documents\\Sistemas\\3_semestre\\desenvolvimento_sistemas\\Projetos\\loja_de_carros_do_ze_v1\\AplicacaoGaragemDoZe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,7 +58,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\giova\\Documents\\Sistemas\\3_semestre\\desenvolvimento_sistemas\\Projetos\\loja_de_carros_do_ze_v1\\ClassesGaragemZe\\ClassesGaragemZe.csproj": {
+              "projectPath": "C:\\Users\\giova\\Documents\\Sistemas\\3_semestre\\desenvolvimento_sistemas\\Projetos\\loja_de_carros_do_ze_v1\\ClassesGaragemZe\\ClassesGaragemZe.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
